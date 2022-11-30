@@ -2,7 +2,7 @@
 
 
 ##  About Me
-🌱 - I am currently studying to become a "Full Stack Developer":
+🌱 - I am currently studying to become a "Full Stack Developer"
 
 📙 - I'm focused on HTML, CSS and JavaScript, in addition to other courses such as:
 
