@@ -1,4 +1,4 @@
-# Hi!👋  I'm Sergio Falcetti! (a.k.a "falcettijr") 
+# Hi!👋  I'm Sergio Falcetti! 
 
 
 ##  About Me
