@@ -4,9 +4,9 @@
 ##  About Me
 🌱 - I am currently studying to become a "Full Stack Developer"
 
-📙 - I'm focused on HTML, CSS and JavaScript, in addition to other courses such as:
+📙 - I'm focused on HTML, CSS, JavaScript and SQL in addition to other courses such as:
 
-👨🏻‍💻 - Programming logic and algorithms, GIT, Software Documentation, Figma and Scrum.
+👨🏻‍💻 - Logic and algorithms, GIT, Software Documentation, Figma and Scrum.
 
 💼 - I'm a professional with ten years of experience in credit analysis management.
 
