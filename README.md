@@ -1,6 +1,5 @@
 # Hi!👋  I'm Sergio Falcetti! 
 
-
 ##  About Me
 🌱 - I am currently studying to become a "Full Stack Developer"
 
