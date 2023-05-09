@@ -27,7 +27,7 @@ I'm 39 years old and studying to become a Full Stack Developer. Currently, I am 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiofalcetti)
 [![falcettijr](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19959736/sergio-falcetti)
 
-### Complementary  ⚙️
+## Complementary  ⚙️
 
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=whit)]()
