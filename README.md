@@ -3,7 +3,8 @@
 
 ##  About Me  👤 
 
-My name is Sergio Falcetti, I'm 39 years old and studying to become a "Full Stack Developer". Currently, I am focusing on learning HTML, CSS, JavaScript, PHP and SQL, and I seeking an opportunity as a developer to embark on my programming journey!
+My name is Sergio Falcetti, 
+I'm 39 years old and studying to become a Full Stack Developer. Currently, I am focusing on learning HTML, CSS, JavaScript, PHP, and SQL, and I am seeking an opportunity as a developer to begin my programming journey!
 
 
 ## Skills  🥷
