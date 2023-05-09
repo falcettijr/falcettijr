@@ -1,12 +1,10 @@
-# Hi!👋  I'm Sergio Falcetti! 
+# Hi!👋 
+# Welcome to my GitHub!
 
 ##  About Me
 
-🌱 - I am currently studying to become a "Full Stack Developer"
+🌱 I'm Sergio Falcetti, I'm 39 years old and I currently studying to become a "Full Stack Developer". Currently, I am focusing on learning HTML, CSS, JavaScript, PHP and SQL, and I seeking an opportunity as a developer to embark on my programming journey!
 
-📙 - I'm focused on HTML, CSS, JavaScript, PHP and SQL.
-
-🎯 -  I am currently seeking an opportunity as a developer to embark on my programming journey!
 
 
 ## Skills
