@@ -1,15 +1,12 @@
 # Hi!👋  I'm Sergio Falcetti! 
 
 ##  About Me
+
 🌱 - I am currently studying to become a "Full Stack Developer"
 
-📙 - I'm focused on HTML, CSS, JavaScript and SQL in addition to other courses such as:
+📙 - I'm focused on HTML, CSS, JavaScript, PHP and SQL.
 
-👨🏻‍💻 - Logic and algorithms, GIT, Software Documentation, Figma and Scrum.
-
-💼 - I'm a professional with ten years of experience in credit analysis management.
-
-🎯 -  I'm now in career transition and looking for a developer opportunity to start in the world of programming!
+🎯 -  I am currently seeking an opportunity as a developer to embark on my programming journey!
 
 
 ## Skills
@@ -25,7 +22,7 @@
 [![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)]()
 
-## Social
+## Get in touch with me!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:falcettijr@gmail.com)
