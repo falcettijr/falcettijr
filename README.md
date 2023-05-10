@@ -1,4 +1,4 @@
-<img src="Banner.svg"></img>
+<img src="Banner.gif"></img>
 
 # Hi! I'm Sergio Falcetti! 🖖
 
