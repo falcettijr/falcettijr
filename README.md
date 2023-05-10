@@ -1,3 +1,5 @@
+<img src="Banner_GitHub.svg"></img>
+
 # Hi! I'm Sergio Falcetti! 🖖
 
 ![Falcettijr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falcettijr&theme=github_dark_dimmed&bg_color=22272e&show_icons=true&hide=contribs,stars&hide_border=true&hide_title=true)
