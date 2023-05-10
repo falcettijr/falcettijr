@@ -1,11 +1,13 @@
 <img src="Banner-GitHub.gif"></img>
 
-![Falcettijr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falcettijr&theme=github_dark_dimmed&bg_color=22272e&show_icons=true&hide=contribs,stars&hide_border=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falcettijr&layout=compact&theme=github_dark_dimmed&bg_color=22272e&hide_border=true&hide_title=true)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=falcettijr&theme=github_dark_dimmed&bg_color=22272e&show_icons=true&hide=contribs,stars&hide_border=true&hide_title=true">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=falcettijr&layout=compact&theme=github_dark_dimmed&bg_color=22272e&hide_border=true&hide_title=true">
+</p>
 
 ##  About Me  👤 
 
-I'm 39 years old and studying to become a Full Stack Developer. Currently, I am focusing on learning HTML, CSS, JavaScript, PHP, and SQL, and I am seeking an opportunity as a developer to begin my programming journey!
+I'm 39 years old and studying to become a Full Stack Developer. Currently, I am focusing on learning HTML, CSS, JavaScript, PHP, SQLI am seeking an opportunity as a developer to begin my programming journey!
 
 ## Skills  💻
 
