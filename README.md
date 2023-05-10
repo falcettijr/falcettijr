@@ -1,5 +1,8 @@
 # Hello! Welcome to my GitHub! 🖖
 
+![Falcettijr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falcettijr&theme=github_dark_dimmed&bg_color=22272e&show_icons=true&hide=contribs,stars&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falcettijr&layout=compact&theme=github_dark_dimmed&bg_color=22272e&hide_border=true&hide_title=true)
+
 ##  About Me  👤 
 
 My name is Sergio Falcetti, 
@@ -38,5 +41,3 @@ I'm 39 years old and studying to become a Full Stack Developer. Currently, I am 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 [![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)]()
 
-![Falcettijr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falcettijr&theme=github_dark_dimmed&bg_color=22272e&show_icons=true&hide=contribs,stars&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falcettijr&layout=compact&theme=github_dark_dimmed&bg_color=22272e&hide_border=true)
