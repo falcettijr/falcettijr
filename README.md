@@ -4,12 +4,13 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=falcettijr&theme=github_dark_dimmed&bg_color=22272e&show_icons=true&hide=contribs,stars&hide_border=true&hide_title=true">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=falcettijr&layout=compact&theme=github_dark_dimmed&bg_color=22272e&hide_border=true&hide_title=true">
 </p>
+<h1 align="center">
+About Me  👤 
+</h1>
 
-##  About Me  👤 
+<p align="center">I'm 39 years old and studying to become a Full Stack Developer. Currently, I am focusing on learning HTML, CSS, JavaScript, PHP, SQLI am seeking an opportunity as a developer to begin my programming journey!</p><br>
 
-I'm 39 years old and studying to become a Full Stack Developer. Currently, I am focusing on learning HTML, CSS, JavaScript, PHP, SQLI am seeking an opportunity as a developer to begin my programming journey!
-
-## Skills  💻
+<h1 align="center">Skills  💻</h1>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
