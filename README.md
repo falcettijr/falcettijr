@@ -39,3 +39,9 @@ About Me
   <a href="mailto:falcettijr@gmail.com?subject=Olá%Sergio%20Falcetti"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sergiofalcetti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=falcettijr&color=blue" /></a>
+</p>
+
+![](https://hit.yhype.me/github/profile?user_id=6422337)
