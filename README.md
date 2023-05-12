@@ -30,6 +30,8 @@ About Me
   <img src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
 <h1 align="center">Get in touch
