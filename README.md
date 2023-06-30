@@ -9,7 +9,7 @@
 About Me
 </h1>
 
-<h4 align="center">I'm 39 years old and studying to become a Full Stack Developer. <br> Currently, I am focusing on learning HTML, CSS, JavaScript.<br> Now I'm seeking an opportunity as a developer to continue my programming journey! <br><br> Let's work together! 🤓</h4>
+<h4 align="center">I'm 39 years old and studying to become a Full Stack Developer. Currently, I am focusing on learning HTML, CSS, JavaScript.<br> Now I'm seeking an opportunity as a developer to continue my programming journey! <br><br> Let's work together! 🤓</h4>
 
 <h1 align="center">Skills
 </h1>
