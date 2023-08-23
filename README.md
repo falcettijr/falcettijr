@@ -17,7 +17,7 @@ About Me
   <th>Skills</th>
 </tr>
   <tr>
-  <td><a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64419c43e272577374936c05?variant=dark&roadmaps=frontend%2Cjavascript%2Creact" alt="roadmap.sh"/></a></td> 
+  <td><a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64419c43e272577374936c05?variant=dark" alt="roadmap.sh"/></a></td> 
   <td><p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
