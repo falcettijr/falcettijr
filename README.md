@@ -43,7 +43,7 @@ About Me
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=falcettijr&color=blue" /></a>
+  <a href="https://komarev.com/ghpvc/?username=falcettijr&color=white" /></a>
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=6422337)
