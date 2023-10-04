@@ -1,16 +1,21 @@
 <img src="Banner-GitHub.gif"></img>
 
+<h1 align="center">
+  <a href="mailto:falcettijr@gmail.com?subject=Olá%Sergio%20Falcetti"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sergiofalcetti/"></a><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=falcettijr&style=for-the-badge"/>
+  <br>
+</h1>
+
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=falcettijr&theme=github_dark_dimmed&bg_color=22272e&show_icons=true&hide=contribs,stars&hide_border=true&hide_title=true">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=falcettijr&layout=compact&theme=github_dark_dimmed&bg_color=22272e&hide_border=true&hide_title=true">
 </p>
 
-<h1 align="center">
-About Me
-</h1>
+<h4 align="center">I'm 39 years old and studying to become a Full Stack Developer. Currently, I am focusing on learning React.<br></h4>
 
-<h4 align="center">I'm 39 years old and studying to become a Full Stack Developer. Currently, I am focusing on learning React.</h4>
-
+<p align="center">
+</p>
 <table align="center">
 <tr>
   <th>Roadmap</th> 
@@ -33,17 +38,3 @@ About Me
 </p></td>
 </tr>
 </table>
-
-<h1 align="center">Get in touch
-</h1>
-
-<p align="center">
-  <a href="mailto:falcettijr@gmail.com?subject=Olá%Sergio%20Falcetti"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sergiofalcetti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=falcettijr&color=white" /></a>
-</p>
-
-![](https://hit.yhype.me/github/profile?user_id=6422337)
